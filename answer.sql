@@ -1,7 +1,7 @@
 -- ============================================
 -- Week 1 Assignment: School Management Database
--- Author: [Your Name]
--- Date: [Today's Date]
+-- Author: Zakariye
+-- Date: 2026-10-09
 -- ============================================
 
 -- 1. Create the database
